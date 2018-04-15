@@ -1,0 +1,21 @@
+hh1504
+*   0177cc5 Merge branch 'time2u'
+|\  
+| *   e6cc441 Merge branch 'time2m' into time2u
+| |\  
+| * | 10d20dd Branched at t=2 from t1
+* | |   a827da6 Merge branch 'time2m'
+|\ \ \  
+| | |/  
+| |/|   
+| * |   cc24189 Merge branch 'time1' into time2m
+| |\ \  
+| | |/  
+| | * 467afee Branched at t=2 from branch time1
+| | * 60405b2 Branch at t=1
+| * | 546db97 Branched at t=2 at middle
+* | | 2a0dfdb Branched t=2 off
+|/ /  
+* | f6c627d Branched t=1 off
+|/  
+* 220be25 At master
